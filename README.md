@@ -142,7 +142,4 @@ The following sections contain the study material that covers important topics i
 
 ---
 
-## Repository Structure
-
-The repository is organized as follows:
 
